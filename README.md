@@ -1,3 +1,4 @@
+# 👩🏻‍💻🔐 Guilherme Assunção
 
 **`Desenvolvedor FullStack/Segurança Da Informação`**
 
@@ -151,3 +152,4 @@ Me chamo Guilherme Assunção, tenho 21 anos e sou de Sumaré. Atualmente, estou
   />
 
 </p>
+
